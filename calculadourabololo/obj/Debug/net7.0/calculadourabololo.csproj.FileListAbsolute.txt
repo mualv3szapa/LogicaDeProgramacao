@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\calculadourabololo\bin\Debug\net7.0\calculadourabololo.exe
+C:\Users\54750759805\Desktop\calculadourabololo\bin\Debug\net7.0\calculadourabololo.deps.json
+C:\Users\54750759805\Desktop\calculadourabololo\bin\Debug\net7.0\calculadourabololo.runtimeconfig.json
+C:\Users\54750759805\Desktop\calculadourabololo\bin\Debug\net7.0\calculadourabololo.dll
+C:\Users\54750759805\Desktop\calculadourabololo\bin\Debug\net7.0\calculadourabololo.pdb
+C:\Users\54750759805\Desktop\calculadourabololo\obj\Debug\net7.0\calculadourabololo.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\calculadourabololo\obj\Debug\net7.0\calculadourabololo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\calculadourabololo\obj\Debug\net7.0\calculadourabololo.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\calculadourabololo\obj\Debug\net7.0\calculadourabololo.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\calculadourabololo\obj\Debug\net7.0\calculadourabololo.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\calculadourabololo\obj\Debug\net7.0\calculadourabololo.dll
+C:\Users\54750759805\Desktop\calculadourabololo\obj\Debug\net7.0\refint\calculadourabololo.dll
+C:\Users\54750759805\Desktop\calculadourabololo\obj\Debug\net7.0\calculadourabololo.pdb
+C:\Users\54750759805\Desktop\calculadourabololo\obj\Debug\net7.0\calculadourabololo.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\calculadourabololo\obj\Debug\net7.0\ref\calculadourabololo.dll

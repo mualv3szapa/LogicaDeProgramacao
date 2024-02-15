@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\calculadora_imc\bin\Debug\net7.0\calculadora_imc.exe
+C:\Users\54750759805\Desktop\calculadora_imc\bin\Debug\net7.0\calculadora_imc.deps.json
+C:\Users\54750759805\Desktop\calculadora_imc\bin\Debug\net7.0\calculadora_imc.runtimeconfig.json
+C:\Users\54750759805\Desktop\calculadora_imc\bin\Debug\net7.0\calculadora_imc.dll
+C:\Users\54750759805\Desktop\calculadora_imc\bin\Debug\net7.0\calculadora_imc.pdb
+C:\Users\54750759805\Desktop\calculadora_imc\obj\Debug\net7.0\calculadora_imc.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\calculadora_imc\obj\Debug\net7.0\calculadora_imc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\calculadora_imc\obj\Debug\net7.0\calculadora_imc.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\calculadora_imc\obj\Debug\net7.0\calculadora_imc.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\calculadora_imc\obj\Debug\net7.0\calculadora_imc.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\calculadora_imc\obj\Debug\net7.0\calculadora_imc.dll
+C:\Users\54750759805\Desktop\calculadora_imc\obj\Debug\net7.0\refint\calculadora_imc.dll
+C:\Users\54750759805\Desktop\calculadora_imc\obj\Debug\net7.0\calculadora_imc.pdb
+C:\Users\54750759805\Desktop\calculadora_imc\obj\Debug\net7.0\calculadora_imc.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\calculadora_imc\obj\Debug\net7.0\ref\calculadora_imc.dll

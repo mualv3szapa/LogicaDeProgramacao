@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\calculadoradeidade\bin\Debug\net7.0\calculadoradeidade.exe
+C:\Users\54750759805\Desktop\calculadoradeidade\bin\Debug\net7.0\calculadoradeidade.deps.json
+C:\Users\54750759805\Desktop\calculadoradeidade\bin\Debug\net7.0\calculadoradeidade.runtimeconfig.json
+C:\Users\54750759805\Desktop\calculadoradeidade\bin\Debug\net7.0\calculadoradeidade.dll
+C:\Users\54750759805\Desktop\calculadoradeidade\bin\Debug\net7.0\calculadoradeidade.pdb
+C:\Users\54750759805\Desktop\calculadoradeidade\obj\Debug\net7.0\calculadoradeidade.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\calculadoradeidade\obj\Debug\net7.0\calculadoradeidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\calculadoradeidade\obj\Debug\net7.0\calculadoradeidade.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\calculadoradeidade\obj\Debug\net7.0\calculadoradeidade.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\calculadoradeidade\obj\Debug\net7.0\calculadoradeidade.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\calculadoradeidade\obj\Debug\net7.0\calculadoradeidade.dll
+C:\Users\54750759805\Desktop\calculadoradeidade\obj\Debug\net7.0\refint\calculadoradeidade.dll
+C:\Users\54750759805\Desktop\calculadoradeidade\obj\Debug\net7.0\calculadoradeidade.pdb
+C:\Users\54750759805\Desktop\calculadoradeidade\obj\Debug\net7.0\calculadoradeidade.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\calculadoradeidade\obj\Debug\net7.0\ref\calculadoradeidade.dll
